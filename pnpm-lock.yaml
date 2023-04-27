@@ -16,6 +16,9 @@ dependencies:
   '@tailwindcss/typography':
     specifier: ^0.5.8
     version: 0.5.9(tailwindcss@3.3.1)
+  nuxt-umami:
+    specifier: ^2.2.2
+    version: 2.2.2
   vue3-smooth-scroll:
     specifier: ^0.8.1
     version: 0.8.1
@@ -3690,6 +3693,10 @@ packages:
     optionalDependencies:
       fsevents: 2.3.2
     dev: true
+
+  /nuxt-umami@2.2.2:
+    resolution: {integrity: sha512-83LpTkOq93eej8rmYb2cHUa/PbX4m/yz3zKyUN7kFKZ23y0wWvVaJTgNWHpUshU7gZQiPhKy1WtVoA+rIpLvog==}
+    dev: false
 
   /nuxt@3.4.2(@types/node@18.16.0):
     resolution: {integrity: sha512-4v+oeBL4ZI8nHzF0Dm1p5kF9VCNlzrpvOt7wu3BnmzlueXsu4A/LfmFvpfZLxws+r5U74eM5Ut/LMD8B8LrZIw==}

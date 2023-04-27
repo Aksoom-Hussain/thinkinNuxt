@@ -50,13 +50,17 @@ export default defineNuxtConfig({
   modules: ["@nuxtjs/tailwindcss", 
   //'nuxt-umami'
 ],
-  // umami:{
-  //   enable: true, 
-  //   autoTrack: true,
-  //   doNotTrack: false,
-  //   cache: false,
-  //   domains: "www.thinkindragon.com,thinkindragon.com",
-  //   websiteId: "87db4362-caaa-4388-bc16-7d8430f404e0",
-  //   scriptUrl: "https://umami.thinkindragon.com/umami.js",
-  // }
-});
+extends: ['nuxt-umami'],
+appConfig: {
+  umami: {
+  enable: true, 
+  autoTrack: true,
+  doNotTrack: false,
+  cache: false,
+  domains: "www.thinkindragon.com,thinkindragon.com",
+  websiteId: "87db4362-caaa-4388-bc16-7d8430f404e0",
+  scriptUrl: "https://umami.thinkindragon.com/umami.js",
+  },
+},
+}
+);
