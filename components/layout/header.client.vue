@@ -5,7 +5,7 @@
             <div class="flex flex-wrap items-center">
               <div class="w-auto mr-14">
                 <a href="#">
-                  <img src="~/assets/logos/flaro-logo-black.svg" alt="">
+                  <img src="~/assets/logos/Thinkin Dragon-logo-black.svg" alt="">
                 </a>
               </div>
             </div>
@@ -49,7 +49,7 @@
                 <div class="flex items-center justify-between -m-2">
                   <div class="w-auto p-2">
                     <a class="inline-block" href="#">
-                      <img src="~/assets/logos/flaro-logo-black.svg" alt="">
+                      <img src="~/assets/logos/Thinkin Dragon-logo-black.svg" alt="">
                     </a>
                   </div>
                   <div class="w-auto p-2">
