@@ -24,7 +24,7 @@
                   <ul>
                     <li class="mb-3.5"><a class="text-white hover:text-gray-200 font-medium leading-relaxed" href="#">Docs</a></li>
                     <li class="mb-3.5"><a class="text-white hover:text-gray-200 font-medium leading-relaxed" href="#">Knowledge Base</a></li>
-                    <li><a class="text-white hover:text-gray-200 font-medium leading-relaxed" href="#">Insights</a></li>
+                    <li><a class="text-white hover:text-gray-200 font-medium leading-relaxed" href="https://codecanyon.net/user/drgntnkin">CodeCanyon</a></li>
                   </ul>
                 </div>
                 <div class="w-full sm:w-1/3 p-8">

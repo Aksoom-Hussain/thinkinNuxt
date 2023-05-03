@@ -53,13 +53,13 @@ export default defineNuxtConfig({
 extends: ['nuxt-umami'],
 appConfig: {
   umami: {
-  enable: true, 
+  ignoreLocalhost: true, 
   autoTrack: true,
   doNotTrack: false,
   cache: false,
   domains: "www.thinkindragon.com,thinkindragon.com",
-  websiteId: "87db4362-caaa-4388-bc16-7d8430f404e0",
-  scriptUrl: "https://umami.thinkindragon.com/umami.js",
+  id: "87db4362-caaa-4388-bc16-7d8430f404e0",
+  host: "https://umami.thinkindragon.com/umami.js",
   },
 },
 }
