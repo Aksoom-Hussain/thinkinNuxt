@@ -142,7 +142,7 @@
           <div class="w-full md:w-1/3 p-16 md:p-3">
             <div class="px-10 pt-11 text-center bg-gray-100 h-96 rounded-4xl">
               <h3 class="mb-3 text-xl font-bold font-heading leading-normal">No time Web & App</h3>
-              <p class="mb-10 text-gray-600 font-medium leading-relaxed">just tell your bussiness model and people role
+              <p class="mb-10 text-gray-600 font-medium leading-relaxed">just tell your business model and people role
                 and get crm hosted from our expert</p>
               <img
                 class="mx-auto h-72 object-cover rounded-3xl shadow-3xl transform hover:translate-y-3 transition ease-in-out duration-1000"
@@ -221,7 +221,7 @@
                     <div class="md:max-w-xs pb-8">
                       <p class="mb-5 text-sm text-gray-400 font-semibold uppercase tracking-px">Step 2</p>
                       <h3 class="mb-2 text-xl text-gray-200 font-bold leading-normal">Pay and develop</h3>
-                      <p class="text-gray-300 font-medium leading-relaxed">once proposal signed, the development is start
+                      <p class="text-gray-300 font-medium leading-relaxed">once proposal signed, the development start
                       </p>
                     </div>
                   </div>
@@ -321,8 +321,8 @@
         <div class="flex flex-wrap -m-8">
           <div class="w-full md:w-1/3 p-8">
             <p class="mb-6 text-gray-200 font-semibold leading-normal">Satisfied Clients</p>
-            <h3 class="mb-4 text-6xl md:text-8xl xl:text-10xl text-white font-bold tracking-px-n leading-none">84,900</h3>
-            <p class="text-gray-300 font-medium leading-relaxed md:w-56">Thinkin Dragon has garnered more than 15k+ users.
+            <h3 class="mb-4 text-6xl md:text-8xl xl:text-10xl text-white font-bold tracking-px-n leading-none">2,100</h3>
+            <p class="text-gray-300 font-medium leading-relaxed md:w-56">Thinkin Dragon has garnered more than 1k+ users.
             </p>
           </div>
           <div class="w-full md:w-1/3 p-8">
@@ -333,8 +333,8 @@
           </div>
           <div class="w-full md:w-1/3 p-8">
             <p class="mb-6 text-gray-200 font-semibold leading-normal">Customer Reviews</p>
-            <h3 class="mb-4 text-6xl md:text-8xl xl:text-10xl text-white font-bold tracking-px-n leading-none">21,394</h3>
-            <p class="text-gray-300 font-medium leading-relaxed md:w-56">Thinkin Dragon has garnered more than 15k+ users.
+            <h3 class="mb-4 text-6xl md:text-8xl xl:text-10xl text-white font-bold tracking-px-n leading-none">1,394</h3>
+            <p class="text-gray-300 font-medium leading-relaxed md:w-56">Thinkin Dragon has garnered more than 1k+ users.
             </p>
           </div>
         </div>
@@ -345,8 +345,7 @@
       <div class="container px-4 mx-auto">
         <h2 class="mb-5 text-6xl md:text-7xl font-bold font-heading text-center tracking-px-n leading-tight">See what
           others are saying</h2>
-        <p class="mb-16 text-lg text-gray-600 font-medium text-center mx-auto md:max-w-xl">Amet minim mollit non deserunt
-          ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam.
+        <p class="mb-16 text-lg text-gray-600 font-medium text-center mx-auto md:max-w-xl">
         </p>
         <div class="flex flex-nowrap justify-center -m-1.5 mb-1.5">
           <div class="flex-shrink-0 max-w-xs p-1.5">
