@@ -1,13 +1,13 @@
 <template>
-    <section class="relative pt-28 pb-32 bg-primary-600 overflow-hidden">
-        <img class="absolute left-1/2 top-0 transform -translate-x-1/2" src="~/assets/images/footers/gradient3.svg" alt="">
+    <section class="relative pt-28 pb-32 bg-sky-600 overflow-hidden">
+        <img class="absolute left-1/2 top-0 transform -translate-x-1/2" src="/images/footers/gradient3.svg" alt="">
         <div class="relative z-10 container px-4 mx-auto">
           <div class="flex flex-wrap -m-8">
             <div class="w-full md:w-1/2 p-8">
               <div class="lg:max-w-sm">
                 <h2 class="mb-16 text-6xl md:text-7xl text-white font-bold tracking-px-n leading-tight">Let’s talk about your project.</h2>
                 <div class="md:inline-block">
-                  <a href="https://api.whatsapp.com/send?phone=918126961804&text=i%20am%20interested%20in%20application%20development" class="py-4 px-6 w-full text-primary-600 font-semibold rounded-xl shadow-4xl focus:ring focus:ring-primary-300 bg-white hover:bg-gray-50 transition ease-in-out duration-200" type="button">Get A Free Quote</a>
+                  <a href="https://api.whatsapp.com/send?phone=918126961804&text=i%20am%20interested%20in%20application%20development" class="py-4 px-6 w-full text-sky-600 font-semibold rounded-xl shadow-4xl focus:ring focus:ring-sky-300 bg-white hover:bg-gray-50 transition ease-in-out duration-200" type="button">Get A Free Quote</a>
                 </div>
               </div>
             </div>

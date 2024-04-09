@@ -9,6 +9,10 @@ export default defineNuxtConfig({
     },
   },
   app: {
+    pageTransition: {
+      name: 'slide-right',
+      mode: 'out-in'
+    },
     head: {
       title: process.env.name,
       titleTemplate: "%s - " + process.env.name,
@@ -47,9 +51,8 @@ export default defineNuxtConfig({
       ],
     },
   },
-  modules: ["@nuxtjs/tailwindcss", 
-  //'nuxt-umami'
-],
+  modules: ["@nuxtjs/tailwindcss", 'nuxt-gtag','@vueuse/motion/nuxt', //'nuxt-umami'
+  "nuxt-icon", "@nuxt/image"],
 extends: ['nuxt-umami'],
 appConfig: {
   umami: {
@@ -60,6 +63,17 @@ appConfig: {
   domains: "www.thinkindragon.com,thinkindragon.com",
   id: "87db4362-caaa-4388-bc16-7d8430f404e0",
   host: "https://umami.thinkindragon.com/umami.js",
+  },
+},
+
+devtools: { enabled: true },
+gtag: {
+  id: 'G-0ZC0JD6P5Z'
+},
+postcss: {
+  plugins: {
+    tailwindcss: {},
+    autoprefixer: {},
   },
 },
 }
