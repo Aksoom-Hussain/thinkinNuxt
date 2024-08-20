@@ -10,7 +10,7 @@
   "devDependencies": {
     "@nuxt/devtools": "^0.8.4",
     "@nuxt/image": "latest",
-    "nuxt": "^3.11.1",
+    "nuxt": "^3.12.4",
     "nuxt-gtag": "^2.0.5",
     "nuxt-icon": "^0.6.10",
     "typescript": "^5.2.2"
@@ -23,7 +23,7 @@
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.0.0",
     "lucide-vue-next": "^0.279.0",
-    "nuxt-umami": "^2.5.4",
+    "nuxt-umami": "^2.6.4",
     "tailwind-merge": "^1.14.0",
     "tailwindcss-animate": "^1.0.7",
     "vue": "^3.4.19",

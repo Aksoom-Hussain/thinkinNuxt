@@ -40,12 +40,6 @@ export default defineNuxtConfig({
           //src: "https://cdnjs.cloudflare.com/ajax/libs/lottie-web/5.8.1/lottie.min.js",
           //src: "https://js.stripe.com/v3/",
         },
-        {
-          "data-website-id":"87db4362-caaa-4388-bc16-7d8430f404e0",
-          src:"https://umami.thinkindragon.com/umami.js",
-          async:true,
-          defer:true,
-        },
         // <script async defer data-website-id="87db4362-caaa-4388-bc16-7d8430f404e0" src="https://umami.thinkindragon.com/umami.js"></script>
 
       ],
@@ -61,8 +55,8 @@ appConfig: {
   doNotTrack: false,
   cache: false,
   domains: "www.thinkindragon.com,thinkindragon.com",
-  id: "87db4362-caaa-4388-bc16-7d8430f404e0",
-  host: "https://umami.thinkindragon.com/umami.js",
+  id: "e91216fd-478e-4381-b660-fee8f8973161",
+  host: "https://umami.thinkindragon.com",
   },
 },
 
